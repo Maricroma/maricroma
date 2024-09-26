@@ -9,3 +9,12 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 ## Technologies
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
 - Front-End: My expertise in Javascript allows me to create interactive and user-friendly interfaces...
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and learning.
+- Web Development: Experience in building responsive web applications using HTML5, CSS3, JavaScript, Flask, Django, and React.
+- Databases: knowledge of SQL and MySQL for database design and management.
+- Version Control: Proficient in Git and GitHub for collaborative software development.
+- API Development: Experience in designing and consuming RESTful APIs.
+- Software Design: Knowledge of object-oriented programming (OOP), data structures, algorithms, and design patterns.
+- Agile Methodologies: Skilled in working in Agile environments with tools like Jira and Trello.
