@@ -19,9 +19,14 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - Software Design: Knowledge of object-oriented programming (OOP), data structures, algorithms, and design patterns.
 - Agile Methodologies: Skilled in working in Agile environments with tools like Jira and Trello.
 
+## Languages
+- Spanish (native)
+- English (B2)
+
 ## Hobbies
 - Reading
 - Watching series
 - Listening music
 - Cooking
 - Shopping
+
